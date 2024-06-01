@@ -1,0 +1,47 @@
+/* title in hero section */
+.title{
+    color: black;
+    text-align: center;
+    padding-top: 2rem;
+}
+.title-heading{
+    font-size: 50px;
+    line-height: 1.08;
+    letter-spacing: 0.002rem;
+}
+.title-sub-heading{
+    font-size: 25px;
+    margin-top: 0.6rem;
+    font-weight: 40;
+    letter-spacing: 0.003rem;
+}
+.title-white{
+    color: #fff;
+    text-align: center;
+    padding-top: 2rem;
+}
+.title-vision{
+    color: #fff;
+    font-size: 3rem;
+    margin-bottom: 10px; 
+}
+/* title in collection section */
+.title-size{
+    font-size: 30px;
+}
+.sub-size{
+    font-size: 15px;
+}
+.text-overlay {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+.bottom{
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}

@@ -1,0 +1,137 @@
+
+/* footer */
+footer{
+    height: 967px;
+    background-color: #e8e8ed;
+    color: #9d9da4;
+    position: absolute;
+}
+
+.footer1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    margin: 0px 250px 0px 220px;
+    
+}
+
+.footer1 a{
+    color: #6b6b71;
+}
+
+.footer1 .text1{
+    padding-bottom: 10px;
+    color: #9d9da4;
+}
+
+.footer1 .text2{
+    padding-bottom: 10px;
+    color: #9d9da4;
+}
+
+.footer1 .text3{
+    padding-bottom: 10px;
+    color: #9d9da4;
+}
+
+.footer1 .text4{
+    padding-bottom: 10px;
+    color: #9d9da4;
+}
+.footer1 .text5{
+    padding-bottom: 10px;
+    color: #9d9da4;
+}
+.footer1 .text6{
+    padding-bottom: 10px;
+    color: #9d9da4;
+}
+.footer1 .text7{
+    padding-bottom: 10px;
+    color: #9d9da4;
+}
+.footer3{
+    border-top: 1px solid rgba(0, 0, 0, 0.222);
+    /* display: flex; */
+    /* justify-content: center; */
+    padding-left: 30px;
+    align-items: center;
+    gap: 30px;
+    margin: 30px 250px 0px 250px;
+}
+.panel1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.panel2{
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+.panel2 li{
+    list-style: none;
+    padding: 6px;
+    cursor: pointer;
+}
+
+.panel2 li:hover{
+    text-decoration: underline;
+    padding: 6px;
+    cursor: pointer;
+}
+
+.footer2{
+    line-height: 189%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 250px 0px 250px;
+    cursor: default;
+}
+
+.footer2 a:hover{
+    text-decoration: underline;
+}
+
+.footer2 a{
+    text-decoration: none;
+    color: #9d9da4;
+}
+
+.sub-footer1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sub-footer2{
+    position: relative;
+    top: -15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.sub-footer3{
+    position: relative;
+    top: -48px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sub-footer4{
+    position: relative;
+    top: -50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sub-footer5{
+    position: relative;
+    top: 7px;
+    display: flex;
+    flex-direction: column;
+}

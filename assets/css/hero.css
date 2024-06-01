@@ -1,0 +1,102 @@
+.hero {
+    height:600px;
+    width: 1200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: 0.6rem solid #fff;
+}
+/* apple environment 2030 */
+.apple-env{
+    margin-top: 0;
+    background-image: url("../img/hero/Apple-env/hero_environment_2030.1.jpg");
+    background-size: cover;
+    height: 60vh;
+    width: 100vw;
+    border-top: none;
+}
+/* iPhone 15 pro family */
+.iphone-family{
+    margin-top: 0;
+    background-image: url("../img/hero/iphone-15/hero_iphone_family_15.jpeg");
+    background-size: cover;
+    height: 60vh;
+    width: 100vw;
+}
+/* Apple vision pro */
+ .vision-pro{
+    margin-top: 0;
+    background-size: cover;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+} 
+.video-container {
+    position: relative;
+  }
+video {
+    object-fit: cover; 
+    width: 100vw;
+}
+/* collocation */
+.hero-collection{
+    width: 100%;
+    display: flex;
+}
+/* col-left-side */
+.col-left-one{
+    width: 50%;
+    background-image: url("../img/hero/ipad/hero_ipadpro__bpt7a9d8sh42_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+}
+.col-left-two{
+    width: 80vw;
+    background-image: url("../img/hero/macbook/hero_macbook_air_m3__cp4t7pn8zqaa_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+}
+.col-left-three{
+    width: 80vw;
+    background-image: url("../img/hero/Card/tile__cauwwcyyn9hy_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+}
+.col-left-four{
+    width: 80vw;
+    background-image: url("../img/hero/trandIn/hero_iphone_tradein__fo4u4bki88ae_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+}
+/* col-right-side */
+.col-right-one{
+    width: 50%;
+    background-image: url("../img/hero/watch/hero_apple_watch_series_9_order__d0fi9mb84dci_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 6px;
+}
+.col-right-two{
+    width: 80vw;
+    background-image: url("../img/hero/airport/hero_airpods_pro_order__dpv2det0r9si_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+}
+.col-right-three{
+    width: 80vw;
+    background-image: url("../img/hero/mac/promo_mac_pro__bm1qf6c94p42_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+}
+.col-right-four{
+    width: 80vw;
+    background-image: url("../img/hero/airmac/tile_airpods_max_alt__pjktfze9yiq2_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+}

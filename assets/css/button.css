@@ -1,0 +1,44 @@
+/* btn in hero section   */
+.btn{
+    text-align: center;
+    margin-top: 1.8rem;
+    font-family: Apple;
+}
+.btn-link{
+    padding: 11px 21px;
+    border-radius: 2em;
+    border: none;
+    outline: none;
+    background: #0071E3;
+    color: #fff;
+    cursor: pointer;
+}
+.btn-link:hover{
+    box-shadow: 0 0 1px 1px rgba(255, 255, 255, 0.5); /* Glow effect on hover */
+}
+.btn-link-transparent{
+    color: #2997FF;
+    background: transparent;
+    cursor: pointer;
+    border: 1px solid #2997FF;
+    border-radius: 1.2rem;
+}
+.btn-link-transparent:hover{
+    color: #fff;
+    background-color: #2997FF;
+}
+.btn-link-vision{
+    color: black;
+    background: white;
+    cursor: pointer;
+    border-radius: 1.2rem;
+    margin-bottom: 50px;
+}
+.btn-link-vision-right{
+    background: transparent;
+    border: 1px solid #fff;
+}
+.btn-link-vision-right:hover{
+    color: black;
+    background-color: #fff;
+}
